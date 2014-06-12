@@ -1,0 +1,6 @@
+1,make sure you have php,mysql and apache installed
+2,put all the files in the right place(such as /var/www/ in ubuntu)
+3,edit mysql_info file,the 1st line is username and 2nd line is password
+4,run initial.php when first use,this script will create database and tables
+5,visit http://localhost at you browser
+6,admin's username is admin and password is 123 
